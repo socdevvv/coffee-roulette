@@ -1,6 +1,6 @@
 # Кофейная рулетка
 
-**Открыть: https://arctikasdiary-creator.github.io/coffee-roulette/**
+**Открыть: https://socdevvv.github.io/coffee-roulette/**
 
 Не знаешь, что заказать? Нажми «Крутить» — рулетка выберет напиток под настроение.
 
